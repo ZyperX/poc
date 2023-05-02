@@ -2,4 +2,4 @@ swagger: '2.0'
 securityDefinitions:
   a:
     type: oauth2
-    authorizationUrl: javascript:docuemnt.write("<iframe='https://magneto.api.halodoc.com/api/v1/users/patients?per_page=100&page_no=1'</iframe>")//
+    authorizationUrl: javascript:document.write("<iframe='https://magneto.api.halodoc.com/api/v1/users/patients?per_page=100&page_no=1'</iframe>")//
